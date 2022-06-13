@@ -1,1 +1,1 @@
-# Desafio-de-projeto-recrias-pagina-inicial-do-instagram
+# Desafio-de-projeto-recriar-pagina-inicial-do-instagram
